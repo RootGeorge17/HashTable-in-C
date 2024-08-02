@@ -1,0 +1,7 @@
+1. Define it's structure
+2. Define Initialisation and Deletion
+3. Hash Function
+4. Think about Collisions
+5. Think about what Hash Table methods to implement
+6. ...
+7. ...
